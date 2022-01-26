@@ -1,0 +1,16 @@
+{
+  "name": "driving-age-2",
+  "version": "1.0.0",
+  "description": "Driving test with selections",
+  "main": "main.js",
+  "module": "_main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbi Engel",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "input": "^1.0.1"
+  }
+}
